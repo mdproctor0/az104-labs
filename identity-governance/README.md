@@ -100,10 +100,10 @@ identity-governance/
 | Lab | Domain | Status |
 |---|---|---|
 | **Identity & Governance** | Entra ID · RBAC · Conditional Access · Azure Policy | ✅ Complete |
-| Networking | VNet · NSG · Bastion · DNS · Load Balancers | 🔄 In progress |
-| Storage | Blob · File Sync · SAS · Private Endpoints | ⬜ Upcoming |
-| Compute | VMs · VMSS · App Service · ARM Templates | ⬜ Upcoming |
-| Monitor & Backup | Log Analytics · KQL · Recovery Vault · ASR | ⬜ Upcoming |
+| [Networking](./networking) | VNet · NSG · Bastion · DNS · Load Balancers · VPN Gateway | 🔄 In progress |
+| [Storage](./storage) | Blob · File Sync · SAS Tokens · Private Endpoints | ⬜ Upcoming |
+| [Compute](./compute) | VMs · VMSS · App Service · ARM Templates · Containers | ⬜ Upcoming |
+| [Monitor & Backup](./monitoring) | Log Analytics · KQL · Azure Monitor · Recovery Vault · ASR | ⬜ Upcoming |
 
 ---
 
