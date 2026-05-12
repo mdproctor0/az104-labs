@@ -98,7 +98,7 @@ This is not a tutorial walkthrough. I was given the requirements and built the s
 ![Conditional Access Policies](screenshots/Conditional%20Access%20policies%20list.png)
 
 ### CA Policy Conditions
-![CA Policy Conditions](screenshots/CA%20policy%20conditions.png)
+![CA Policy Conditions](screenshots/CA%20policy%20condition.png)
 
 ### CA Policy Grant
 ![CA Policy Grant](screenshots/CA%20policy%20grant.png)
