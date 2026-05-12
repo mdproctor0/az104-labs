@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image May 12, 2026 at 11_23_12 AM" src="https://github.com/user-attachments/assets/b07a559b-5f90-4bda-9a0d-2d2b160cf303" />
+
 # AZ-104 Lab Series — Contoso Financial Group
 
 > Real Azure scenarios built from scratch. Every lab documents the business problem, architecture decisions, and production considerations.
