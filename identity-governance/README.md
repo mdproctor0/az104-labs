@@ -77,21 +77,34 @@ This is not a tutorial walkthrough. I was given the requirements and built the s
 
 ---
 
-## Files
+## Screenshots
 
-```
-identity-governance/
-├── README.md                          # This file
-├── screenshots/
-│   ├── users-list.png
-│   ├── groups-devops-members.png
-│   ├── groups-security-members.png
-│   ├── rbac-assignments.png
-│   ├── conditional-access-policies.png
-│   ├── ca-policy-conditions.png
-│   ├── ca-policy-grant.png
-│   └── named-locations.png
-```
+### Users
+![Users List](screenshots/Users%20list.png)
+
+### Groups
+![Groups List](screenshots/Groups%20list.png)
+
+### DevOps Team Members
+![DevOps Team Members](screenshots/DevOps%20Team%20members.png)
+
+### Security Team Members
+![Security Team Members](screenshots/Security%20Team%20members.png)
+
+### RBAC Assignments
+![RBAC Assignments](screenshots/RBAC%20assignments.png)
+
+### Conditional Access Policies
+![Conditional Access Policies](screenshots/Conditional%20Access%20policies%20list.png)
+
+### CA Policy Conditions
+![CA Policy Conditions](screenshots/CA%20policy%20conditions.png)
+
+### CA Policy Grant
+![CA Policy Grant](screenshots/CA%20policy%20grant.png)
+
+### Named Locations
+![Named Locations](screenshots/Named%20locations.png)
 
 ---
 
