@@ -112,8 +112,8 @@ This is not a tutorial walkthrough. I was given the requirements and built the s
 
 | Lab | Domain | Status |
 |---|---|---|
-| [Identity & Governance — Day 1](../identity-governance) | Entra ID · RBAC · Conditional Access | ✅ Complete |
-| **Governance & Compliance — Day 2** | Management Groups · Azure Policy · Locks · PIM | ✅ Complete |
+| [Identity & Governance — Day 1](./identity-governance) | Entra ID · RBAC · Conditional Access | ✅ Complete |
+| [Governance & Compliance — Day 2](./governance-compliance) | Management Groups · Azure Policy · Locks · PIM | ✅ Complete |
 | Networking | VNet · NSG · Bastion · DNS · Load Balancers | 🔄 In progress |
 | Storage | Blob · File Sync · SAS · Private Endpoints | ⬜ Upcoming |
 | Compute | VMs · VMSS · App Service · ARM Templates | ⬜ Upcoming |
