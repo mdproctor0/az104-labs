@@ -62,15 +62,15 @@ The deployment is blocked immediately with a policy violation error showing the 
 
 ---
 
-### 3. Resource Lock — CFGlab Production Resource Group
+### 3. Resource Lock — CFG_ID Production Resource Group
 
-**Lock applied:** Delete lock on CFGlab resource group
+**Lock applied:** Delete lock on CFG_ID resource group
 
 | Setting | Value | Why |
 |---|---|---|
 | Lock name | rg-delete-lock | Descriptive naming convention |
 | Lock type | Delete | Prevents deletion, preserves full operational capability |
-| Scope | CFGlab Resource Group | Protects all resources inside the RG |
+| Scope | CFG_ID Resource Group | Protects all resources inside the RG |
 | Notes | Prevents accidental deletion | Documents intent for other administrators |
 
 **Why Delete and not ReadOnly:**
