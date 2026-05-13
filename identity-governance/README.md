@@ -112,12 +112,13 @@ This is not a tutorial walkthrough. I was given the requirements and built the s
 
 | Lab | Domain | Status |
 |---|---|---|
-| **Identity & Governance** | Entra ID · RBAC · Conditional Access · Azure Policy | ✅ Complete |
-| [Networking](./networking) | VNet · NSG · Bastion · DNS · Load Balancers · VPN Gateway | 🔄 In progress |
-| [Storage](./storage) | Blob · File Sync · SAS Tokens · Private Endpoints | ⬜ Upcoming |
-| [Compute](./compute) | VMs · VMSS · App Service · ARM Templates · Containers | ⬜ Upcoming |
-| [Monitor & Backup](./monitoring) | Log Analytics · KQL · Azure Monitor · Recovery Vault · ASR | ⬜ Upcoming |
-
+| [Identity & Governance — Day 1](../identity-governance) | Entra ID · RBAC · Conditional Access | ✅ Complete |
+| **Governance & Compliance — Day 2** | Management Groups · Azure Policy · Locks · PIM | ✅ Complete |
+| Networking | VNet · NSG · Bastion · DNS · Load Balancers | 🔄 In progress |
+| Storage | Blob · File Sync · SAS · Private Endpoints | ⬜ Upcoming |
+| Compute | VMs · VMSS · App Service · ARM Templates | ⬜ Upcoming |
+| Monitor & Backup | Log Analytics · KQL · Recovery Vault · ASR | ⬜ Upcoming |
+ 
 ---
 
 *Part of my AZ-104 preparation series. Every lab is a real business scenario built from a blank page.*
