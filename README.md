@@ -19,6 +19,7 @@ No tutorials. No walkthroughs. Requirements given, solution built.
 | Lab | Domain | Status |
 |---|---|---|
 | [Identity & Governance](./identity-governance) | Entra ID · RBAC · Conditional Access · Azure Policy | ✅ Complete |
+| [Governance Compliance]([./identity-governance](https://github.com/mdproctor0/az104-labs/tree/main/governance-compliance)) | Entra ID · RBAC · Conditional Access · Azure Policy | ✅ Complete |
 | [Networking](./networking) | VNet · NSG · Bastion · DNS · Load Balancers · VPN Gateway | 🔄 In progress |
 | [Storage](./storage) | Blob · File Sync · SAS Tokens · Private Endpoints | ⬜ Upcoming |
 | [Compute](./compute) | VMs · VMSS · App Service · ARM Templates · Containers | ⬜ Upcoming |
